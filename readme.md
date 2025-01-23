@@ -1,1 +1,2 @@
-test depuis en ligne 
+test depuis pycharm
+email = victor.garcia.1@ens.etmtl.ca
